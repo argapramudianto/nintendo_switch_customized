@@ -1,10 +1,10 @@
 # Nintendo Switch Softmod CFW Setup (Atmosphere dan/atau SX OS)
-## Created by ChaotiCipher
+## Created by Me
 
 ## Pre Caution
 ```
 - Do it with your own risk!!!
-- Mohon agar dokumen ini dapat digunakan dengan bijak
+- Mohon agar dokumentasi ini dapat digunakan dengan bijak
 - Apabila terdapat update Firmware Nintendo jangan serta merta langsung didownload!!!
 - Apabila terdapat rilis Atmosphere juga jangan serta merta langsung didownload!!! Tunggu hingga Sigpatches keluar dari GBATemp atau GitHub eXhumer
 - Dokumen ini dibuat dengan seluruh komponen terbaru per tanggal 7 Oktober 2020, dokumen akan saya perbarui jika dan hanya jika saya senggang dan punya cukup niat
